@@ -1,0 +1,416 @@
+LessonID,lessonName,CourseID
+0,Numbers 0 to 120: Place value,1
+1,Ones and tens: Place value,1
+2,Comparing 2-digit numbers,1
+3,Relate addition and subtraction: Addition and subtraction,2
+4,Addition within 20: Addition and subtraction,2
+5,Subtraction within 20: Addition and subtraction,2
+6,Equal sign: Addition and subtraction,2
+7,Missing number within 20: Addition and subtraction,2
+8,Word problems within 20: Addition and subtraction,2
+9,"Word problems with ""more"" and ""fewer"": Addition and subtraction",2
+10,Adding 1s and 10s: Addition and subtraction,2
+11,Intro to addition with 2-digit numbers,2
+12,"Length and size: Measurement, data, and geometry",3
+13,"Bar graphs: Measurement, data, and geometry",3
+14,"Time: Measurement, data, and geometry",3
+15,"Shapes: Measurement, data, and geometry",3
+16,Fractions of shapes,3
+17,Add within 20: Add and subtract within 20,4
+18,Add using arrays: Add and subtract within 20,4
+19,Subtract within 20: Add and subtract within 20,4
+20,Add and subtract within 20,4
+21,Intro to place value: Place value,5
+22,"Numbers in standard, word, and expanded form: Place value",5
+23,Regroup whole numbers: Place value,5
+24,Comparing 2 and 3 digit numbers: Place value,5
+25,Even and odd numbers: Place value,5
+26,"Counting patterns within 1,000",5
+27,Visually adding within 100: Add and subtract within 100,6
+28,Strategies for adding within 100: Add and subtract within 100,6
+29,Visually subtract within 100: Add and subtract within 100,6
+30,Addition and subtraction: missing values: Add and subtract within 100,6
+31,Addition and subtraction within 100 word problems: Add and subtract within 100,6
+32,Addition and subtraction within 100 word problems (multi-step),6
+33,"Visually adding within 1,000: Add and subtract within 1,000",7
+34,"Strategies for adding within 1,000: Add and subtract within 1,000",7
+35,"Strategies for subtracting within 1,000: Add and subtract within 1,000",7
+36,Adding up to four 2-digit numbers,7
+37,Counting money: Money and time,8
+38,Time: Money and time,8
+39,Units of length: Measurement,9
+40,Measure lengths: Measurement,9
+41,Estimate lengths: Measurement,9
+42,Length word problems,9
+43,Picture graphs: Data,10
+44,Bar graphs: Data,10
+45,Line plots: Data,10
+46,Shapes: Geometry,11
+47,Equal parts of shapes: Geometry,11
+48,Partition rectangles: Geometry,11
+49,Multiplication as equal groups: Intro to multiplication,12
+50,Multiplication on the number line: Intro to multiplication,12
+51,Multiplication as groups of objects: Intro to multiplication,12
+52,Multiplication with arrays: Intro to multiplication,12
+53,Multiplication in contexts: Intro to multiplication,12
+54,Commutative property of multiplication,12
+55,Multiply by 0 or 1: 1-digit multiplication,13
+56,Multiply by 2 or 4: 1-digit multiplication,13
+57,Multiply by 5 or 10: 1-digit multiplication,13
+58,Multiply by 3 or 6: 1-digit multiplication,13
+59,Distributive property: 1-digit multiplication,13
+60,"Multiply by 7, 8, or 9: 1-digit multiplication",13
+61,1-digit multiplication,13
+62,"Rounding to nearest 10 or 100: Addition, subtraction, and estimation",14
+63,"Estimate to add multi-digit numbers: Addition, subtraction, and estimation",14
+64,"Strategies for adding two and three-digit numbers: Addition, subtraction, and estimation",14
+65,"Adding with regrouping within 1000: Addition, subtraction, and estimation",14
+66,"Estimate to subtract multi-digit numbers: Addition, subtraction, and estimation",14
+67,"Strategies for subtracting two and three-digit numbers: Addition, subtraction, and estimation",14
+68,"Subtracting with regrouping within 1000: Addition, subtraction, and estimation",14
+69,"Addition and subtraction missing value problems: Addition, subtraction, and estimation",14
+70,Addition and subtraction word problems,14
+71,Division intro: Intro to division,15
+72,Division in contexts: Intro to division,15
+73,Relating multiplication and division: Intro to division,15
+74,"Divide by 1, 2, or 4: Intro to division",15
+75,Divide by 5 or 10: Intro to division,15
+76,Divide by 3 or 6: Intro to division,15
+77,"Divide by 7, 8, or 9: Intro to division",15
+78,1-digit division,15
+79,Fractions intro: Understand fractions,16
+80,Fractions in contexts: Understand fractions,16
+81,What fractions mean: Understand fractions,16
+82,Fractions on the number line: Understand fractions,16
+83,Fractions and whole numbers,16
+84,Comparing fractions: Equivalent fractions and comparing fractions,17
+85,Comparing fractions of different wholes: Equivalent fractions and comparing fractions,17
+86,Equivalent fractions: Equivalent fractions and comparing fractions,17
+87,Letters and symbols in multiplication and division equations: More with multiplication and division,18
+88,Multiplication and division word problems: More with multiplication and division,18
+89,Associative property of multiplication: More with multiplication and division,18
+90,Multiplying by tens,18
+91,2-step expressions: Arithmetic patterns and problem solving,19
+92,Estimation word problems: Arithmetic patterns and problem solving,19
+93,One and two-step word problems: Arithmetic patterns and problem solving,19
+94,Patterns in arithmetic,19
+95,Quadrilaterals,20
+96,Area introduction: Area,21
+97,Count unit squares to find area: Area,21
+98,Area formula intuition: Area,21
+99,Multiply to find area: Area,21
+100,Area and the distributive property: Area,21
+101,Decompose figures to find area,21
+102,Perimeter: Perimeter,22
+103,Perimeter of polygons with missing side lengths: Perimeter,22
+104,Perimeter word problems: Perimeter,22
+105,Comparing area and perimeter,22
+106,Time on number line: Time,23
+107,Telling time: Time,23
+108,Elapsed time,23
+109,Mass: Measurement,24
+110,Volume: Measurement,24
+111,Picture graphs: Represent and interpret data,25
+112,Bar graphs: Represent and interpret data,25
+113,Line plots with fractions: Represent and interpret data,25
+114,Intro to place value: Place value,26
+115,Writing whole numbers in expanded form: Place value,26
+116,Writing whole numbers in written form: Place value,26
+117,Regrouping whole numbers: Place value,26
+118,How 10 relates to place value: Place value,26
+119,Comparing multi-digit numbers,26
+120,"Rounding whole numbers: Addition, subtraction, and estimation",27
+121,"Adding multi-digit numbers: Addition, subtraction, and estimation",27
+122,Subtracting multi-digit numbers,27
+123,Comparing with multiplication: Multiply by 1-digit numbers,28
+124,"Multiplication by 10s, 100s, and 1000s: Multiply by 1-digit numbers",28
+125,Multi-digit multiplication: place value and area models: Multiply by 1-digit numbers,28
+126,Estimate products: Multiply by 1-digit numbers,28
+127,Multiply with partial products,28
+128,Multiply by 10s: Multiply by 2-digit numbers,29
+129,Multiply 2-digit numbers with area models: Multiply by 2-digit numbers,29
+130,Estimate products (2-digit numbers): Multiply by 2-digit numbers,29
+131,Multiply 2-digit numbers with partial products,29
+132,Remainders: Division,30
+133,"Divide multiples of 10, 100, and 1,000 by 1-digit numbers: Division",30
+134,Division with place value: Division,30
+135,Division with area models: Division,30
+136,Estimate quotients: Division,30
+137,Multi-digit division with partial quotients: Division,30
+138,"Multiplication, division word problems: Division",30
+139,Multi-step word problems,30
+140,"Factors and multiples: Factors, multiples and patterns",31
+141,"Prime and composite numbers: Factors, multiples and patterns",31
+142,Math patterns,31
+143,Equivalent fractions: Equivalent fractions and comparing fractions,32
+144,Common denominators: Equivalent fractions and comparing fractions,32
+145,Comparing fractions with unlike denominators visually: Equivalent fractions and comparing fractions,32
+146,Comparing fractions with unlike denominators,32
+147,Decomposing fractions: Add and subtract fractions,33
+148,Adding and subtracting fractions with like denominators: Add and subtract fractions,33
+149,Adding and subtracting fractions: word problems: Add and subtract fractions,33
+150,Mixed numbers: Add and subtract fractions,33
+151,Adding and subtracting mixed numbers: Add and subtract fractions,33
+152,Adding and subtracting mixed numbers word problems: Add and subtract fractions,33
+153,Fractions with denominators of 10 and 100: Add and subtract fractions,33
+154,Line plots with fractions,33
+155,Multiplying fractions and whole numbers visually: Multiply fractions,34
+156,Multiplying whole numbers and fractions: Multiply fractions,34
+157,Multiplying whole numbers and mixed numbers: Multiply fractions,34
+158,Multiplying whole numbers and fractions word problems,34
+159,Decimal fractions: Understand decimals,35
+160,Decimal fractions greater than 1: Understand decimals,35
+161,Writing fractions as decimals: Understand decimals,35
+162,Decimals in word form: Understand decimals,35
+163,Decimals on the number line: Understand decimals,35
+164,Regrouping decimals: Understand decimals,35
+165,Writing decimals as fractions: Understand decimals,35
+166,Common fractions and decimals: Understand decimals,35
+167,Comparing decimals visually: Understand decimals,35
+168,Comparing decimals,35
+169,Types of plane figures: Plane figures,36
+170,Angle introduction: Plane figures,36
+171,Parallel and perpendicular: Plane figures,36
+172,Classifying triangles: Plane figures,36
+173,Classifying geometric shapes: Plane figures,36
+174,Line of symmetry,36
+175,Understanding angle measurement: Measuring angles,37
+176,Measuring angles: Measuring angles,37
+177,Decomposing angles,37
+178,Area and perimeter,38
+179,Estimating mass: Units of measurement,39
+180,Estimating volume: Units of measurement,39
+181,Estimating length: Units of measurement,39
+182,Time: Units of measurement,39
+183,Converting units of mass: Units of measurement,39
+184,Converting units of volume: Units of measurement,39
+185,Converting units of length: Units of measurement,39
+186,Converting units of time: Units of measurement,39
+187,Money word problems: Units of measurement,39
+188,Conversion word problems,39
+189,Decimal place value intro: Decimal place value,40
+190,Decimals on the number line: Decimal place value,40
+191,Decimals in expanded form: Decimal place value,40
+192,Decimals in written form: Decimal place value,40
+193,Decimals in different forms: Decimal place value,40
+194,Comparing decimals: Decimal place value,40
+195,Rounding decimals,40
+196,Common fractions and decimals: Add decimals,41
+197,Adding decimals intro: Add decimals,41
+198,Adding decimals (tenths): Add decimals,41
+199,Adding decimals (hundredths),41
+200,Subtracting decimals intro: Subtract decimals,42
+201,Subtracting decimals (tenths): Subtract decimals,42
+202,Subtracting decimals (hundredths),42
+203,Strategies for adding and subtracting fractions with unlike denominators: Add and subtract fractions,43
+204,Common denominators: Add and subtract fractions,43
+205,Adding and subtracting fractions with unlike denominators: Add and subtract fractions,43
+206,Adding and subtracting mixed numbers with unlike denominators: Add and subtract fractions,43
+207,Adding and subtracting fractions with unlike denominators word,43
+208,Multi-digit multiplication estimation: Multi-digit multiplication and division,44
+209,Multi-digit multiplication: Multi-digit multiplication and division,44
+210,Multi-digit division estimation: Multi-digit multiplication and division,44
+211,Multi-digit division,44
+212,Multiplication as scaling: Multiply fractions,45
+213,Multiplying fractions and whole numbers: Multiply fractions,45
+214,Multiplying fractions: Multiply fractions,45
+215,Multiplying mixed numbers: Multiply fractions,45
+216,Area of rectangles with fraction side lengths: Multiply fractions,45
+217,Multiplying fractions word problems,45
+218,Fractions as division: Divide fractions,46
+219,Relate fraction division to fraction multiplication: Divide fractions,46
+220,Dividing unit fractions by whole numbers: Divide fractions,46
+221,Dividing whole numbers by unit fractions: Divide fractions,46
+222,Dividing fractions and whole numbers word problems,46
+223,Multiplying decimals and whole numbers: Multiply decimals,47
+224,Multiplying decimals strategies: Multiply decimals,47
+225,Multiplying decimals: Multiply decimals,47
+226,Estimate to divide decimals: Divide decimals,48
+227,Divide whole numbers to get a decimal quotient: Divide decimals,48
+228,Divide decimals by whole numbers: Divide decimals,48
+229,Divide whole numbers by decimals,48
+230,"Multiplying and dividing whole numbers by 10, 100, and 1000: Powers of ten",49
+231,"Multiplying and dividing decimals by 10, 100, and 1000: Powers of ten",49
+232,Powers of 10: Powers of ten,49
+233,Multiplying and dividing with powers of 10: Powers of ten,49
+234,Comparing decimal place values,49
+235,Volume with unit cubes: Volume,50
+236,Volume of rectangular prisms: Volume,50
+237,Decompose figures to find volume: Volume,50
+238,Volume word problems,50
+239,Intro to the coordinate plane: Coordinate plane,51
+240,Coordinate plane word problems: Coordinate plane,51
+241,Writing expressions: Algebraic thinking,52
+242,Number patterns: Algebraic thinking,52
+243,Converting units of time: Converting units of measure,53
+244,Converting metric units: Converting units of measure,53
+245,Converting metric units word problems: Converting units of measure,53
+246,Converting US Customary units: Converting units of measure,53
+247,Converting US Customary units word problems,53
+248,Graph data on line plots: Line plots,54
+249,Interpret data on line plots,54
+250,Triangles: Properties of shapes,55
+251,Quadrilaterals: Properties of shapes,55
+252,Properties of shapes,55
+253,"Intro to ratios: Ratios, rates, & percentages",56
+254,"Equivalent ratios: Ratios, rates, & percentages",56
+255,"Visualize ratios: Ratios, rates, & percentages",56
+256,"Ratio application: Ratios, rates, & percentages",56
+257,"Intro to rates: Ratios, rates, & percentages",56
+258,"Intro to percents: Ratios, rates, & percentages",56
+259,"Percent, decimal, fraction conversions: Ratios, rates, & percentages",56
+260,"Percent problems: Ratios, rates, & percentages",56
+261,"Percent word problems: Ratios, rates, & percentages",56
+262,Adding decimals: Arithmetic operations,57
+263,Subtracting decimals: Arithmetic operations,57
+264,Adding and subtracting decimals word problems: Arithmetic operations,57
+265,Multiplying decimals: Arithmetic operations,57
+266,Dividing whole numbers: Arithmetic operations,57
+267,Dividing decimals: Arithmetic operations,57
+268,Dividing fractions by fractions: Arithmetic operations,57
+269,Exponents: Arithmetic operations,57
+270,Order of operations,57
+271,Intro to negative numbers: Negative numbers,58
+272,Negative decimals & fractions on the number line: Negative numbers,58
+273,Number opposites: Negative numbers,58
+274,Comparing negative numbers: Negative numbers,58
+275,Negative symbol as opposite: Negative numbers,58
+276,Absolute value: Negative numbers,58
+277,Coordinate plane,58
+278,Properties of numbers: Properties of numbers,59
+279,Whole numbers & integers: Properties of numbers,59
+280,Least common multiple: Properties of numbers,59
+281,Greatest common factor,59
+282,Parts of algebraic expressions: Variables & expressions,60
+283,Substitution & evaluating expressions: Variables & expressions,60
+284,Expression value intuition: Variables & expressions,60
+285,Evaluating expressions word problems: Variables & expressions,60
+286,Writing algebraic expressions introduction: Variables & expressions,60
+287,Writing basic algebraic expressions word problems: Variables & expressions,60
+288,Distributive property with variables: Variables & expressions,60
+289,Combining like terms: Variables & expressions,60
+290,Equivalent expressions,60
+291,Algebraic equations basics: Equations & inequalities introduction,61
+292,One-step equations intuition: Equations & inequalities introduction,61
+293,One-step addition & subtraction equations: Equations & inequalities introduction,61
+294,One-step multiplication and division equations: Equations & inequalities introduction,61
+295,Finding mistakes in one-step equations: Equations & inequalities introduction,61
+296,One-step equation word problems: Equations & inequalities introduction,61
+297,Intro to inequalities with variables: Equations & inequalities introduction,61
+298,Dependent and independent variables,61
+299,Areas of parallelograms: Geometry,62
+300,Areas of triangles: Geometry,62
+301,Area of composite figures: Geometry,62
+302,Geometric solids (3D shapes): Geometry,62
+303,Volume with fractions: Geometry,62
+304,Surface area: Geometry,62
+305,Polygons on the coordinate plane,62
+306,Dot plots & frequency tables: Data and statistics,63
+307,Statistical questions: Data and statistics,63
+308,Histograms: Data and statistics,63
+309,Mean and median: Data and statistics,63
+310,Mean and median challenge problems: Data and statistics,63
+311,Interquartile range (IQR): Data and statistics,63
+312,Box plots: Data and statistics,63
+313,Mean absolute deviation (MAD): Data and statistics,63
+314,Comparing data displays: Data and statistics,63
+315,Shape of data distributions,63
+316,Intro to adding negative numbers: Negative numbers: addition and subtraction,64
+317,Intro to subtracting negative numbers: Negative numbers: addition and subtraction,64
+318,Adding & subtracting with negatives on the number line: Negative numbers: addition and subtraction,64
+319,Adding & subtracting integers: Negative numbers: addition and subtraction,64
+320,Adding & subtracting negative fractions: Negative numbers: addition and subtraction,64
+321,Addition & subtraction word problems with negatives: Negative numbers: addition and subtraction,64
+322,Absolute value: Negative numbers: addition and subtraction,64
+323,Properties of addition & subtraction: Negative numbers: addition and subtraction,64
+324,Adding & subtracting negative numbers: variables: Negative numbers: addition and subtraction,64
+325,Multiply & divide negative numbers: Negative numbers: multiplication and division,65
+326,Multiplication & division word problems with negatives: Negative numbers: multiplication and division,65
+327,Understanding multiplying and dividing fractions: Negative numbers: multiplication and division,65
+328,Multiply & divide negative fractions: Negative numbers: multiplication and division,65
+329,Order of operations: Negative numbers: multiplication and division,65
+330,Properties of multiplication & division,65
+331,"Converting fractions to decimals: Fractions, decimals, & percentages",66
+332,"Adding & subtracting rational numbers: Fractions, decimals, & percentages",66
+333,"Percent word problems: Fractions, decimals, & percentages",66
+334,Rational number word problems,66
+335,Rate problems with fractions: Rates & proportional relationships,67
+336,Constant of proportionality: Rates & proportional relationships,67
+337,Compare and interpret constants of proportionality: Rates & proportional relationships,67
+338,Identifying proportional relationships: Rates & proportional relationships,67
+339,Graphs of proportional relationships: Rates & proportional relationships,67
+340,Writing & solving proportions: Rates & proportional relationships,67
+341,Equations of proportional relationships,67
+342,"Combining like terms: Expressions, equations, & inequalities",68
+343,"The distributive property & equivalent expressions: Expressions, equations, & inequalities",68
+344,"Interpreting linear expressions: Expressions, equations, & inequalities",68
+345,"Two-step equations intro: Expressions, equations, & inequalities",68
+346,"Two-step equations with decimals and fractions: Expressions, equations, & inequalities",68
+347,"Two-step equation word problems: Expressions, equations, & inequalities",68
+348,"One-step inequalities: Expressions, equations, & inequalities",68
+349,Two-step inequalities,68
+350,Area and circumference of circles: Geometry,69
+351,Area and circumference challenge problems: Geometry,69
+352,"Vertical, complementary, and supplementary angles: Geometry",69
+353,Missing angle problems: Geometry,69
+354,Constructing triangles: Geometry,69
+355,Slicing geometric shapes: Geometry,69
+356,Scale copies: Geometry,69
+357,Scale drawings: Geometry,69
+358,Volume and surface area word problems,69
+359,Basic probability: Statistics and probability,70
+360,Probability models: Statistics and probability,70
+361,Compound events and sample spaces: Statistics and probability,70
+362,Comparing and sampling populations,70
+363,Repeating decimals: Numbers and operations,71
+364,Square roots & cube roots: Numbers and operations,71
+365,Irrational numbers: Numbers and operations,71
+366,Approximating irrational numbers: Numbers and operations,71
+367,Exponents with negative bases: Numbers and operations,71
+368,Exponent properties intro: Numbers and operations,71
+369,Negative exponents: Numbers and operations,71
+370,Exponent properties (integer exponents): Numbers and operations,71
+371,Working with powers of 10: Numbers and operations,71
+372,Scientific notation intro: Numbers and operations,71
+373,Arithmetic with numbers in scientific notation: Numbers and operations,71
+374,Scientific notation word problems: Numbers and operations,71
+375,Equations with variables on both sides: Solving equations with one unknown,72
+376,Equations with parentheses: Solving equations with one unknown,72
+377,Number of solutions to equations: Solving equations with one unknown,72
+378,Equations word problems,72
+379,Graphing proportional relationships: Linear equations and functions,73
+380,Solutions to linear equations: Linear equations and functions,73
+381,Intercepts: Linear equations and functions,73
+382,Slope: Linear equations and functions,73
+383,Intro to slope-intercept form: Linear equations and functions,73
+384,Graphing slope-intercept form: Linear equations and functions,73
+385,Writing slope-intercept equations: Linear equations and functions,73
+386,Functions: Linear equations and functions,73
+387,Linear models: Linear equations and functions,73
+388,Comparing linear functions: Linear equations and functions,73
+389,Constructing linear models for real-world relationships: Linear equations and functions,73
+390,Recognizing functions: Linear equations and functions,73
+391,Linear and nonlinear functions,73
+392,Intro to systems of equations: Systems of equations,74
+393,Systems of equations with graphing: Systems of equations,74
+394,Solving systems with substitution: Systems of equations,74
+395,Number of solutions to systems of equations: Systems of equations,74
+396,Systems of equations word problems,74
+397,Angles between intersecting lines: Geometry,75
+398,Triangle angles: Geometry,75
+399,Pythagorean theorem: Geometry,75
+400,Pythagorean theorem application: Geometry,75
+401,Pythagorean theorem and distance between points: Geometry,75
+402,Pythagorean theorem proofs: Geometry,75
+403,Volume,75
+404,Transformations intro: Geometric transformations,76
+405,Translations: Geometric transformations,76
+406,Rotations: Geometric transformations,76
+407,Reflections: Geometric transformations,76
+408,Properties & definitions of transformations: Geometric transformations,76
+409,Dilations: Geometric transformations,76
+410,Congruence and similarity,76
+411,Introduction to scatter plots: Data and modeling,77
+412,Interpreting scatter plots: Data and modeling,77
+413,Estimating lines of best fit: Data and modeling,77
+414,Two-way tables,77
